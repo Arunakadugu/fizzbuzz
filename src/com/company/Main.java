@@ -41,6 +41,8 @@ public class Main {
         }
 
         System.out.println("number of multiples of 7 in " + num + " : " + num7);
+        System.out.println("number of multiples of 17 in " + num + " : " + num17);
+        System.out.println("number of multiples of 23 in " + num + " : " + num23);
         System.out.println("number of multiples of "+ usernumber + " in "+num+" : "+usernumber);
     }
 }
